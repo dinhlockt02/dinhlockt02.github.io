@@ -1,11 +1,11 @@
 {
-    "name": "food_shopping_app_admin",
-    "short_name": "food_shopping_app_admin",
+    "name": "food_shopping_app",
+    "short_name": "food_shopping_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An admin application for manage shops",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
